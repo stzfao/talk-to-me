@@ -1,0 +1,11 @@
+[project]
+name = "talk-to-me"
+version = "0.1.0"
+description = "Business Intelligence for your Voice AI Orchestration"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.uv.workspace]
+members = [
+    "talk-to-me",
+]
